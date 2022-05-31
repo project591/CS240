@@ -1,3 +1,6 @@
+// This program turns as string of lowercase letters into uppercase letters 
+// and any uppercase letters are turned to lowercase
+
 #include <stdio.h>
 
 int main() {
